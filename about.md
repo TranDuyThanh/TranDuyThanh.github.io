@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Mặt đất vốn chẳng có đường
+Người ta đi mãi thì thành đường thôi
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[coachtranduythanh@gmail.com](mailto:coachtranduythanh@gmail.com)
